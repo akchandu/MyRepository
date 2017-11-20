@@ -18,6 +18,8 @@ public class ConcurrentHashMapEg {
 		System.out.println("map before removing :" + map);
 		map.remove("104");
 		System.out.println("map after removing :" + map);
+		
+		System.out.println("done");
 
 	}
 
